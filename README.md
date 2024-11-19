@@ -1,0 +1,1 @@
+We built a basic recipe website using html elements we learned so far at the odin project course.
